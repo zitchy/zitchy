@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zitchy
+- 👀 I’m interested in Security and Programming.
+- 🌱 I’m currently finishing my masters in Information Security. 
+- 📫 How to reach me freelansalamander@gmail.com
