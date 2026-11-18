@@ -1,6 +1,6 @@
 # Umang Nagda
 
-**Security GRC specialist · ISO/IEC 27001:2022 Lead Auditor · Mumbai**
+**Security GRC specialist · ISO/IEC 27001:2022 Lead Auditor**
 
 I help organisations get audit-ready: gap assessments, risk, policies, internal audits and certification prep, mostly for teams of 50 to 280 people. Before GRC, I spent three years on the operations side of security, so I know what a control looks like when someone actually has to run it.
 
@@ -22,4 +22,4 @@ ISO/IEC 27001:2022 Lead Auditor (CQI/IRCA) · ISO/IEC 42001:2023 Internal Audito
 
 ### Get in touch
 Open to GRC, audit and security-programme roles.
-[LinkedIn](https://www.linkedin.com/in/umang-nagda) · [Email](mailto:umangrnagda@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/umang-nagda) · [Email](mailto:umangrnagda@gmail.com) · [Website](https://cv.zitch.in)
